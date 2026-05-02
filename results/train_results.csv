@@ -1,0 +1,15 @@
+﻿trade_date,symbol,prev_close,calculated_open_price,actual_open_price,continuous_first_price,error,is_match,status,message,candidate_count,selected_rule,split,sample_id,order_file,trade_file,prev_close_found
+2000-01-01,ANON001.SZ,5.87,5.86,5.86,5.86,0.0,True,fallback_continuous,集合竞价阶段无法形成可撮合订单，使用连续竞价第一笔成交价兜底,0,,train,TRN001,orders/TRN001_order.csv,trades/TRN001_trade.csv,True
+2000-01-02,ANON002.SZ,11.83,11.99,11.99,11.98,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,train,TRN002,orders/TRN002_order.csv,trades/TRN002_trade.csv,True
+2000-01-03,ANON003.SZ,11.42,11.35,11.35,11.35,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,train,TRN003,orders/TRN003_order.csv,trades/TRN003_trade.csv,True
+2000-01-04,ANON004.SH,9.85,9.92,9.92,9.92,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,train,TRN004,orders/TRN004_order.csv,trades/TRN004_trade.csv,True
+2000-01-05,ANON005.SH,42.09,42.1,42.1,42.11,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,train,TRN005,orders/TRN005_order.csv,trades/TRN005_trade.csv,True
+2000-01-06,ANON006.SZ,17.94,18.01,18.01,18.01,0.0,True,fallback_continuous,集合竞价阶段无法形成可撮合订单，使用连续竞价第一笔成交价兜底,0,,train,TRN006,orders/TRN006_order.csv,trades/TRN006_trade.csv,True
+2000-01-07,ANON007.SZ,21.68,21.57,21.57,21.58,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,train,TRN007,orders/TRN007_order.csv,trades/TRN007_trade.csv,True
+2000-01-08,ANON008.SZ,24.23,24.21,24.21,24.2,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,train,TRN008,orders/TRN008_order.csv,trades/TRN008_trade.csv,True
+2000-01-09,ANON009.SH,9.88,9.95,9.95,9.88,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,train,TRN009,orders/TRN009_order.csv,trades/TRN009_trade.csv,True
+2000-01-10,ANON010.SH,16.94,17.17,17.17,16.93,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,train,TRN010,orders/TRN010_order.csv,trades/TRN010_trade.csv,True
+2000-01-11,ANON011.SZ,19.94,19.86,19.86,19.86,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,train,TRN011,orders/TRN011_order.csv,trades/TRN011_trade.csv,True
+2000-01-12,ANON012.SZ,95.05,94.0,94.0,93.8,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,train,TRN012,orders/TRN012_order.csv,trades/TRN012_trade.csv,True
+2000-01-13,ANON013.SH,8.64,8.64,8.64,8.64,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,train,TRN013,orders/TRN013_order.csv,trades/TRN013_trade.csv,True
+2000-01-14,ANON014.SH,12.75,12.88,12.88,12.88,0.0,True,fallback_continuous,集合竞价阶段无法形成可撮合订单，使用连续竞价第一笔成交价兜底,0,,train,TRN014,orders/TRN014_order.csv,trades/TRN014_trade.csv,True

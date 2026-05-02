@@ -1,0 +1,15 @@
+﻿split,sample_id,trade_date,symbol,order_file,trade_file,prev_close_found
+train,TRN001,2000-01-01,ANON001.SZ,orders/TRN001_order.csv,trades/TRN001_trade.csv,True
+train,TRN002,2000-01-02,ANON002.SZ,orders/TRN002_order.csv,trades/TRN002_trade.csv,True
+train,TRN003,2000-01-03,ANON003.SZ,orders/TRN003_order.csv,trades/TRN003_trade.csv,True
+train,TRN004,2000-01-04,ANON004.SH,orders/TRN004_order.csv,trades/TRN004_trade.csv,True
+train,TRN005,2000-01-05,ANON005.SH,orders/TRN005_order.csv,trades/TRN005_trade.csv,True
+train,TRN006,2000-01-06,ANON006.SZ,orders/TRN006_order.csv,trades/TRN006_trade.csv,True
+train,TRN007,2000-01-07,ANON007.SZ,orders/TRN007_order.csv,trades/TRN007_trade.csv,True
+train,TRN008,2000-01-08,ANON008.SZ,orders/TRN008_order.csv,trades/TRN008_trade.csv,True
+train,TRN009,2000-01-09,ANON009.SH,orders/TRN009_order.csv,trades/TRN009_trade.csv,True
+train,TRN010,2000-01-10,ANON010.SH,orders/TRN010_order.csv,trades/TRN010_trade.csv,True
+train,TRN011,2000-01-11,ANON011.SZ,orders/TRN011_order.csv,trades/TRN011_trade.csv,True
+train,TRN012,2000-01-12,ANON012.SZ,orders/TRN012_order.csv,trades/TRN012_trade.csv,True
+train,TRN013,2000-01-13,ANON013.SH,orders/TRN013_order.csv,trades/TRN013_trade.csv,True
+train,TRN014,2000-01-14,ANON014.SH,orders/TRN014_order.csv,trades/TRN014_trade.csv,True

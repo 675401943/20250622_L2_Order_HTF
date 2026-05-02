@@ -1,0 +1,7 @@
+﻿split,sample_id,trade_date,symbol,order_file,trade_file,prev_close_found
+validation,VAL001,2001-01-01,ANON001.SH,orders/VAL001_order.csv,trades/VAL001_trade.csv,True
+validation,VAL002,2001-01-02,ANON002.SZ,orders/VAL002_order.csv,trades/VAL002_trade.csv,True
+validation,VAL003,2001-01-03,ANON003.SZ,orders/VAL003_order.csv,trades/VAL003_trade.csv,True
+validation,VAL004,2001-01-04,ANON004.SH,orders/VAL004_order.csv,trades/VAL004_trade.csv,True
+validation,VAL005,2001-01-05,ANON005.SH,orders/VAL005_order.csv,trades/VAL005_trade.csv,True
+validation,VAL006,2001-01-06,ANON006.SH,orders/VAL006_order.csv,trades/VAL006_trade.csv,True

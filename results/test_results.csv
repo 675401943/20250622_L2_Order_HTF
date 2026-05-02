@@ -1,0 +1,280 @@
+﻿trade_date,symbol,prev_close,calculated_open_price,actual_open_price,continuous_first_price,error,is_match,status,message,candidate_count,selected_rule,split,sample_id,order_file,trade_file,prev_close_found
+2002-01-01,ANON001.SZ,7.69,7.66,7.66,7.65,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST001,orders/TST001_order.csv,trades/TST001_trade.csv,True
+2002-01-02,ANON002.SZ,5.89,5.91,5.91,5.91,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST002,orders/TST002_order.csv,trades/TST002_trade.csv,True
+2002-01-03,ANON003.SZ,11.47,11.45,11.45,11.41,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST003,orders/TST003_order.csv,trades/TST003_trade.csv,True
+2002-01-04,ANON004.SZ,201.34,200.0,200.0,200.0,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST004,orders/TST004_order.csv,trades/TST004_trade.csv,True
+2002-01-05,ANON005.SZ,3.09,3.09,3.09,3.09,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST005,orders/TST005_order.csv,trades/TST005_trade.csv,True
+2002-01-06,ANON006.SZ,1.82,1.83,1.83,1.83,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST006,orders/TST006_order.csv,trades/TST006_trade.csv,True
+2002-01-07,ANON007.SZ,6.35,6.31,6.31,6.31,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST007,orders/TST007_order.csv,trades/TST007_trade.csv,True
+2002-01-08,ANON008.SZ,5.93,5.94,5.94,5.94,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST008,orders/TST008_order.csv,trades/TST008_trade.csv,True
+2002-01-09,ANON009.SZ,13.91,13.95,13.95,14.0,0.0,True,success,撮合成功,7,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST009,orders/TST009_order.csv,trades/TST009_trade.csv,True
+2002-01-10,ANON010.SZ,28.54,28.38,28.38,28.32,0.0,True,success,撮合成功,9,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST010,orders/TST010_order.csv,trades/TST010_trade.csv,True
+2002-01-11,ANON011.SZ,25.58,25.65,25.65,25.66,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST011,orders/TST011_order.csv,trades/TST011_trade.csv,True
+2002-01-12,ANON012.SZ,15.75,15.74,15.74,15.73,0.0,True,success,撮合成功,6,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST012,orders/TST012_order.csv,trades/TST012_trade.csv,True
+2002-01-13,ANON013.SZ,26.91,26.74,26.74,26.55,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST013,orders/TST013_order.csv,trades/TST013_trade.csv,True
+2002-01-14,ANON014.SZ,22.68,22.58,22.58,22.58,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST014,orders/TST014_order.csv,trades/TST014_trade.csv,True
+2002-01-15,ANON015.SZ,10.2,10.16,10.16,10.16,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST015,orders/TST015_order.csv,trades/TST015_trade.csv,True
+2002-01-16,ANON016.SZ,24.51,24.39,24.39,24.38,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST016,orders/TST016_order.csv,trades/TST016_trade.csv,True
+2002-01-17,ANON017.SZ,23.22,23.09,23.09,23.1,0.0,True,success,撮合成功,8,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST017,orders/TST017_order.csv,trades/TST017_trade.csv,True
+2002-01-18,ANON018.SZ,47.83,47.79,47.79,47.7,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST018,orders/TST018_order.csv,trades/TST018_trade.csv,True
+2002-01-19,ANON019.SZ,3.55,3.52,3.52,3.51,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST019,orders/TST019_order.csv,trades/TST019_trade.csv,True
+2002-01-20,ANON020.SZ,9.25,9.19,9.19,9.2,0.0,True,success,撮合成功,5,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST020,orders/TST020_order.csv,trades/TST020_trade.csv,True
+2002-01-21,ANON021.SZ,2.33,2.32,2.32,2.31,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST021,orders/TST021_order.csv,trades/TST021_trade.csv,True
+2002-01-22,ANON022.SZ,11.45,11.37,11.37,11.37,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST022,orders/TST022_order.csv,trades/TST022_trade.csv,True
+2002-01-23,ANON023.SZ,16.3,16.3,16.3,16.32,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST023,orders/TST023_order.csv,trades/TST023_trade.csv,True
+2002-01-24,ANON024.SZ,5.89,5.86,5.86,5.86,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST024,orders/TST024_order.csv,trades/TST024_trade.csv,True
+2002-01-25,ANON025.SZ,64.71,65.17,65.17,65.17,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST025,orders/TST025_order.csv,trades/TST025_trade.csv,True
+2002-01-26,ANON026.SZ,27.66,27.54,27.54,27.54,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST026,orders/TST026_order.csv,trades/TST026_trade.csv,True
+2002-01-27,ANON027.SZ,11.81,11.8,11.8,11.81,0.0,True,success,撮合成功,4,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST027,orders/TST027_order.csv,trades/TST027_trade.csv,True
+2002-01-28,ANON028.SZ,5.58,5.56,5.56,5.56,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST028,orders/TST028_order.csv,trades/TST028_trade.csv,True
+2002-01-29,ANON029.SZ,4.9,4.64,4.64,4.63,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST029,orders/TST029_order.csv,trades/TST029_trade.csv,True
+2002-01-30,ANON030.SZ,3.65,3.68,3.68,3.69,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST030,orders/TST030_order.csv,trades/TST030_trade.csv,True
+2002-01-31,ANON031.SZ,4.34,4.33,4.33,4.33,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST031,orders/TST031_order.csv,trades/TST031_trade.csv,True
+2002-02-01,ANON032.SZ,12.26,12.12,12.12,12.11,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST032,orders/TST032_order.csv,trades/TST032_trade.csv,True
+2002-02-02,ANON033.SZ,19.85,19.72,19.72,19.69,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST033,orders/TST033_order.csv,trades/TST033_trade.csv,True
+2002-02-03,ANON034.SZ,10.23,10.15,10.15,10.15,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST034,orders/TST034_order.csv,trades/TST034_trade.csv,True
+2002-02-04,ANON035.SZ,7.88,7.84,7.84,7.84,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST035,orders/TST035_order.csv,trades/TST035_trade.csv,True
+2002-02-05,ANON036.SZ,5.89,5.91,5.91,5.84,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST036,orders/TST036_order.csv,trades/TST036_trade.csv,True
+2002-02-06,ANON037.SZ,4.61,4.6,4.6,4.57,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST037,orders/TST037_order.csv,trades/TST037_trade.csv,True
+2002-02-07,ANON038.SZ,24.79,24.32,24.32,24.31,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST038,orders/TST038_order.csv,trades/TST038_trade.csv,True
+2002-02-08,ANON039.SZ,42.23,42.17,42.17,42.0,0.0,True,success,撮合成功,7,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST039,orders/TST039_order.csv,trades/TST039_trade.csv,True
+2002-02-09,ANON040.SZ,75.56,75.36,75.36,75.37,0.0,True,success,撮合成功,17,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST040,orders/TST040_order.csv,trades/TST040_trade.csv,True
+2002-02-10,ANON041.SZ,9.04,8.88,8.88,8.88,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST041,orders/TST041_order.csv,trades/TST041_trade.csv,True
+2002-02-11,ANON042.SZ,13.48,13.46,13.46,13.46,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST042,orders/TST042_order.csv,trades/TST042_trade.csv,True
+2002-02-12,ANON043.SZ,8.53,8.58,8.58,8.6,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST043,orders/TST043_order.csv,trades/TST043_trade.csv,True
+2002-02-13,ANON044.SZ,18.21,18.2,18.2,18.2,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST044,orders/TST044_order.csv,trades/TST044_trade.csv,True
+2002-02-14,ANON045.SZ,16.13,16.02,16.02,16.02,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST045,orders/TST045_order.csv,trades/TST045_trade.csv,True
+2002-02-15,ANON046.SZ,6.16,6.08,6.08,6.08,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST046,orders/TST046_order.csv,trades/TST046_trade.csv,True
+2002-02-16,ANON047.SZ,12.76,12.65,12.65,12.64,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST047,orders/TST047_order.csv,trades/TST047_trade.csv,True
+2002-02-17,ANON048.SZ,8.35,8.34,8.34,8.33,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST048,orders/TST048_order.csv,trades/TST048_trade.csv,True
+2002-02-18,ANON049.SZ,28.07,27.94,27.94,27.93,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST049,orders/TST049_order.csv,trades/TST049_trade.csv,True
+2002-02-19,ANON050.SZ,22.18,21.92,21.92,21.93,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST050,orders/TST050_order.csv,trades/TST050_trade.csv,True
+2002-02-20,ANON051.SZ,21.22,21.2,21.2,21.2,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST051,orders/TST051_order.csv,trades/TST051_trade.csv,True
+2002-02-21,ANON052.SZ,20.93,20.9,20.9,20.86,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST052,orders/TST052_order.csv,trades/TST052_trade.csv,True
+2002-02-22,ANON053.SZ,53.85,53.77,53.77,53.77,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST053,orders/TST053_order.csv,trades/TST053_trade.csv,True
+2002-02-23,ANON054.SZ,23.75,23.68,23.68,23.68,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST054,orders/TST054_order.csv,trades/TST054_trade.csv,True
+2002-02-24,ANON055.SZ,43.56,43.38,43.38,43.38,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST055,orders/TST055_order.csv,trades/TST055_trade.csv,True
+2002-02-25,ANON056.SZ,34.38,34.19,34.19,34.19,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST056,orders/TST056_order.csv,trades/TST056_trade.csv,True
+2002-02-26,ANON057.SZ,7.67,7.69,7.69,7.69,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST057,orders/TST057_order.csv,trades/TST057_trade.csv,True
+2002-02-27,ANON058.SZ,6.16,6.14,6.14,6.15,0.0,True,success,撮合成功,4,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST058,orders/TST058_order.csv,trades/TST058_trade.csv,True
+2002-02-28,ANON059.SZ,7.15,7.11,7.11,7.11,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST059,orders/TST059_order.csv,trades/TST059_trade.csv,True
+2002-03-01,ANON060.SZ,9.89,9.92,9.92,9.92,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST060,orders/TST060_order.csv,trades/TST060_trade.csv,True
+2002-03-02,ANON061.SZ,13.52,13.54,13.54,13.54,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST061,orders/TST061_order.csv,trades/TST061_trade.csv,True
+2002-03-03,ANON062.SZ,4.89,4.88,4.88,4.86,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST062,orders/TST062_order.csv,trades/TST062_trade.csv,True
+2002-03-04,ANON063.SZ,13.17,13.14,13.14,13.1,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST063,orders/TST063_order.csv,trades/TST063_trade.csv,True
+2002-03-05,ANON064.SZ,9.43,9.51,9.51,9.52,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST064,orders/TST064_order.csv,trades/TST064_trade.csv,True
+2002-03-06,ANON065.SZ,6.76,6.64,6.64,6.64,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST065,orders/TST065_order.csv,trades/TST065_trade.csv,True
+2002-03-07,ANON066.SZ,19.72,19.67,19.67,19.67,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST066,orders/TST066_order.csv,trades/TST066_trade.csv,True
+2002-03-08,ANON067.SZ,19.16,19.14,19.14,19.13,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST067,orders/TST067_order.csv,trades/TST067_trade.csv,True
+2002-03-09,ANON068.SZ,19.5,19.5,19.5,19.21,0.0,True,success,撮合成功,14,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST068,orders/TST068_order.csv,trades/TST068_trade.csv,True
+2002-03-10,ANON069.SZ,21.5,22.03,22.03,22.1,0.0,True,success,撮合成功,18,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST069,orders/TST069_order.csv,trades/TST069_trade.csv,True
+2002-03-11,ANON070.SZ,10.61,10.61,10.61,10.55,0.0,True,success,撮合成功,12,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST070,orders/TST070_order.csv,trades/TST070_trade.csv,True
+2002-03-12,ANON071.SZ,27.16,27.04,27.04,27.04,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST071,orders/TST071_order.csv,trades/TST071_trade.csv,True
+2002-03-13,ANON072.SZ,15.64,15.54,15.54,15.51,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST072,orders/TST072_order.csv,trades/TST072_trade.csv,True
+2002-03-14,ANON073.SZ,16.27,16.05,16.05,16.01,0.0,True,success,撮合成功,7,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST073,orders/TST073_order.csv,trades/TST073_trade.csv,True
+2002-03-15,ANON074.SZ,9.98,9.95,9.95,9.96,0.0,True,success,撮合成功,4,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST074,orders/TST074_order.csv,trades/TST074_trade.csv,True
+2002-03-16,ANON075.SZ,11.78,11.7,11.7,11.7,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST075,orders/TST075_order.csv,trades/TST075_trade.csv,True
+2002-03-17,ANON076.SZ,21.43,21.23,21.23,21.18,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST076,orders/TST076_order.csv,trades/TST076_trade.csv,True
+2002-03-18,ANON077.SZ,10.6,10.5,10.5,10.5,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST077,orders/TST077_order.csv,trades/TST077_trade.csv,True
+2002-03-19,ANON078.SZ,8.08,8.05,8.05,8.02,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST078,orders/TST078_order.csv,trades/TST078_trade.csv,True
+2002-03-20,ANON079.SZ,10.54,10.49,10.49,10.5,0.0,True,success,撮合成功,6,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST079,orders/TST079_order.csv,trades/TST079_trade.csv,True
+2002-03-21,ANON080.SZ,19.2,19.24,19.24,19.23,0.0,True,success,撮合成功,4,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST080,orders/TST080_order.csv,trades/TST080_trade.csv,True
+2002-03-22,ANON081.SZ,35.28,35.43,35.43,35.47,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST081,orders/TST081_order.csv,trades/TST081_trade.csv,True
+2002-03-23,ANON082.SZ,16.82,16.75,16.75,16.75,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST082,orders/TST082_order.csv,trades/TST082_trade.csv,True
+2002-03-24,ANON083.SZ,9.27,9.25,9.25,9.26,0.0,True,success,撮合成功,5,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST083,orders/TST083_order.csv,trades/TST083_trade.csv,True
+2002-03-25,ANON084.SZ,7.4,7.38,7.38,7.38,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST084,orders/TST084_order.csv,trades/TST084_trade.csv,True
+2002-03-26,ANON085.SZ,8.63,8.67,8.67,8.67,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST085,orders/TST085_order.csv,trades/TST085_trade.csv,True
+2002-03-27,ANON086.SZ,14.75,14.58,14.58,14.56,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST086,orders/TST086_order.csv,trades/TST086_trade.csv,True
+2002-03-28,ANON087.SZ,12.97,12.88,12.88,12.83,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST087,orders/TST087_order.csv,trades/TST087_trade.csv,True
+2002-03-29,ANON088.SZ,21.58,21.61,21.61,21.61,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST088,orders/TST088_order.csv,trades/TST088_trade.csv,True
+2002-03-30,ANON089.SZ,17.49,17.48,17.48,17.46,0.0,True,success,撮合成功,4,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST089,orders/TST089_order.csv,trades/TST089_trade.csv,True
+2002-03-31,ANON090.SZ,18.76,18.68,18.68,18.68,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST090,orders/TST090_order.csv,trades/TST090_trade.csv,True
+2002-04-01,ANON091.SZ,7.1,7.09,7.09,7.09,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST091,orders/TST091_order.csv,trades/TST091_trade.csv,True
+2002-04-02,ANON092.SZ,11.96,11.95,11.95,11.88,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST092,orders/TST092_order.csv,trades/TST092_trade.csv,True
+2002-04-03,ANON093.SZ,8.41,8.66,8.66,8.67,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST093,orders/TST093_order.csv,trades/TST093_trade.csv,True
+2002-04-04,ANON094.SZ,35.64,35.74,35.74,35.77,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST094,orders/TST094_order.csv,trades/TST094_trade.csv,True
+2002-04-05,ANON095.SZ,51.78,51.7,51.7,51.7,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST095,orders/TST095_order.csv,trades/TST095_trade.csv,True
+2002-04-06,ANON096.SZ,25.33,25.2,25.2,25.2,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST096,orders/TST096_order.csv,trades/TST096_trade.csv,True
+2002-04-07,ANON097.SZ,20.61,20.54,20.54,20.53,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST097,orders/TST097_order.csv,trades/TST097_trade.csv,True
+2002-04-08,ANON098.SZ,15.79,15.94,15.94,15.93,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST098,orders/TST098_order.csv,trades/TST098_trade.csv,True
+2002-04-09,ANON099.SZ,14.08,14.08,14.08,14.08,0.0,True,success,撮合成功,9,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST099,orders/TST099_order.csv,trades/TST099_trade.csv,True
+2002-04-10,ANON100.SZ,17.55,17.55,17.55,17.82,0.0,True,success,撮合成功,10,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST100,orders/TST100_order.csv,trades/TST100_trade.csv,True
+2002-04-11,ANON101.SZ,17.94,17.88,17.88,17.86,0.0,True,success,撮合成功,4,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST101,orders/TST101_order.csv,trades/TST101_trade.csv,True
+2002-04-12,ANON102.SZ,17.89,17.88,17.88,17.89,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST102,orders/TST102_order.csv,trades/TST102_trade.csv,True
+2002-04-13,ANON103.SZ,39.46,38.97,38.97,38.96,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST103,orders/TST103_order.csv,trades/TST103_trade.csv,True
+2002-04-14,ANON104.SZ,28.79,28.58,28.58,28.59,0.0,True,success,撮合成功,5,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST104,orders/TST104_order.csv,trades/TST104_trade.csv,True
+2002-04-15,ANON105.SZ,14.52,14.55,14.55,14.63,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST105,orders/TST105_order.csv,trades/TST105_trade.csv,True
+2002-04-16,ANON106.SZ,9.09,9.13,9.13,9.13,0.0,True,success,撮合成功,6,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST106,orders/TST106_order.csv,trades/TST106_trade.csv,True
+2002-04-17,ANON107.SZ,64.17,63.8,63.8,63.8,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST107,orders/TST107_order.csv,trades/TST107_trade.csv,True
+2002-04-18,ANON108.SZ,42.9,42.72,42.72,42.71,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST108,orders/TST108_order.csv,trades/TST108_trade.csv,True
+2002-04-19,ANON109.SZ,15.28,15.19,15.19,15.18,0.0,True,success,撮合成功,11,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST109,orders/TST109_order.csv,trades/TST109_trade.csv,True
+2002-04-20,ANON110.SZ,10.12,10.09,10.09,10.09,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST110,orders/TST110_order.csv,trades/TST110_trade.csv,True
+2002-04-21,ANON111.SZ,85.8,85.78,85.78,85.78,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST111,orders/TST111_order.csv,trades/TST111_trade.csv,True
+2002-04-22,ANON112.SZ,9.92,9.87,9.87,9.76,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST112,orders/TST112_order.csv,trades/TST112_trade.csv,True
+2002-04-23,ANON113.SZ,8.29,8.36,8.36,8.36,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST113,orders/TST113_order.csv,trades/TST113_trade.csv,True
+2002-04-24,ANON114.SZ,38.23,38.23,38.23,38.01,0.0,True,success,撮合成功,33,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST114,orders/TST114_order.csv,trades/TST114_trade.csv,True
+2002-04-25,ANON115.SZ,13.84,14.0,14.0,14.05,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST115,orders/TST115_order.csv,trades/TST115_trade.csv,True
+2002-04-26,ANON116.SZ,31.36,31.21,31.21,31.22,0.0,True,success,撮合成功,3,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST116,orders/TST116_order.csv,trades/TST116_trade.csv,True
+2002-04-27,ANON117.SZ,17.52,17.55,17.55,17.54,0.0,True,success,撮合成功,8,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST117,orders/TST117_order.csv,trades/TST117_trade.csv,True
+2002-04-28,ANON118.SZ,62.1,62.09,62.09,62.11,0.0,True,success,撮合成功,9,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST118,orders/TST118_order.csv,trades/TST118_trade.csv,True
+2002-04-29,ANON119.SZ,23.69,23.49,23.49,23.49,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST119,orders/TST119_order.csv,trades/TST119_trade.csv,True
+2002-04-30,ANON120.SZ,40.35,39.8,39.8,39.8,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST120,orders/TST120_order.csv,trades/TST120_trade.csv,True
+2002-05-01,ANON121.SZ,18.7,18.6,18.6,18.51,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST121,orders/TST121_order.csv,trades/TST121_trade.csv,True
+2002-05-02,ANON122.SZ,24.16,24.24,24.24,24.24,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST122,orders/TST122_order.csv,trades/TST122_trade.csv,True
+2002-05-03,ANON123.SZ,16.74,18.82,18.82,18.85,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST123,orders/TST123_order.csv,trades/TST123_trade.csv,True
+2002-05-04,ANON124.SZ,17.05,16.94,16.94,16.94,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST124,orders/TST124_order.csv,trades/TST124_trade.csv,True
+2002-05-05,ANON125.SZ,25.5,25.14,25.14,25.14,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST125,orders/TST125_order.csv,trades/TST125_trade.csv,True
+2002-05-06,ANON126.SZ,13.59,13.57,13.57,13.58,0.0,True,success,撮合成功,4,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST126,orders/TST126_order.csv,trades/TST126_trade.csv,True
+2002-05-07,ANON127.SZ,20.22,19.78,19.78,19.72,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST127,orders/TST127_order.csv,trades/TST127_trade.csv,True
+2002-05-08,ANON128.SZ,64.34,63.89,63.89,63.9,0.0,True,success,撮合成功,11,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST128,orders/TST128_order.csv,trades/TST128_trade.csv,True
+2002-05-09,ANON129.SZ,57.48,57.15,57.15,57.16,0.0,True,success,撮合成功,14,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST129,orders/TST129_order.csv,trades/TST129_trade.csv,True
+2002-05-10,ANON130.SZ,38.04,37.98,37.98,37.98,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST130,orders/TST130_order.csv,trades/TST130_trade.csv,True
+2002-05-11,ANON131.SZ,22.71,22.73,22.73,22.77,0.0,True,success,撮合成功,7,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST131,orders/TST131_order.csv,trades/TST131_trade.csv,True
+2002-05-12,ANON132.SZ,25.01,24.88,24.88,24.88,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST132,orders/TST132_order.csv,trades/TST132_trade.csv,True
+2002-05-13,ANON133.SZ,20.35,20.25,20.25,20.25,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST133,orders/TST133_order.csv,trades/TST133_trade.csv,True
+2002-05-14,ANON134.SZ,27.22,27.25,27.25,27.25,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST134,orders/TST134_order.csv,trades/TST134_trade.csv,True
+2002-05-15,ANON135.SZ,21.42,21.21,21.21,21.21,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST135,orders/TST135_order.csv,trades/TST135_trade.csv,True
+2002-05-16,ANON136.SZ,16.18,16.09,16.09,16.09,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST136,orders/TST136_order.csv,trades/TST136_trade.csv,True
+2002-05-17,ANON137.SZ,33.91,34.21,34.21,34.21,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST137,orders/TST137_order.csv,trades/TST137_trade.csv,True
+2002-05-18,ANON138.SZ,27.26,26.96,26.96,26.96,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST138,orders/TST138_order.csv,trades/TST138_trade.csv,True
+2002-05-19,ANON139.SZ,10.65,10.65,10.65,10.68,0.0,True,success,撮合成功,11,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST139,orders/TST139_order.csv,trades/TST139_trade.csv,True
+2002-05-20,ANON140.SZ,30.8,30.98,30.98,30.98,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST140,orders/TST140_order.csv,trades/TST140_trade.csv,True
+2002-05-21,ANON141.SZ,29.18,28.87,28.87,28.87,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST141,orders/TST141_order.csv,trades/TST141_trade.csv,True
+2002-05-22,ANON142.SZ,25.7,25.6,25.6,25.6,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST142,orders/TST142_order.csv,trades/TST142_trade.csv,True
+2002-05-23,ANON143.SZ,62.5,62.51,62.51,62.81,0.0,True,success,撮合成功,32,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST143,orders/TST143_order.csv,trades/TST143_trade.csv,True
+2002-05-24,ANON144.SZ,29.97,30.05,30.05,30.05,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST144,orders/TST144_order.csv,trades/TST144_trade.csv,True
+2002-05-25,ANON145.SZ,15.84,15.7,15.7,15.7,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST145,orders/TST145_order.csv,trades/TST145_trade.csv,True
+2002-05-26,ANON146.SZ,37.1,37.11,37.11,37.1,0.0,True,success,撮合成功,6,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST146,orders/TST146_order.csv,trades/TST146_trade.csv,True
+2002-05-27,ANON147.SZ,17.51,17.45,17.45,17.42,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST147,orders/TST147_order.csv,trades/TST147_trade.csv,True
+2002-05-28,ANON148.SZ,36.06,35.7,35.7,35.7,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST148,orders/TST148_order.csv,trades/TST148_trade.csv,True
+2002-05-29,ANON149.SZ,8.23,8.22,8.22,8.22,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,test,TST149,orders/TST149_order.csv,trades/TST149_trade.csv,True
+2002-05-30,ANON150.SH,23.55,23.54,23.54,23.5,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST150,orders/TST150_order.csv,trades/TST150_trade.csv,True
+2002-05-31,ANON151.SH,6.72,6.66,6.66,6.66,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST151,orders/TST151_order.csv,trades/TST151_trade.csv,True
+2002-06-01,ANON152.SH,2.71,2.75,2.75,2.76,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST152,orders/TST152_order.csv,trades/TST152_trade.csv,True
+2002-06-02,ANON153.SH,25.73,25.64,25.64,25.64,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST153,orders/TST153_order.csv,trades/TST153_trade.csv,True
+2002-06-03,ANON154.SH,11.72,11.75,11.75,11.62,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST154,orders/TST154_order.csv,trades/TST154_trade.csv,True
+2002-06-04,ANON155.SH,9.92,9.94,9.94,10.0,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST155,orders/TST155_order.csv,trades/TST155_trade.csv,True
+2002-06-05,ANON156.SH,10.55,10.44,10.44,10.41,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST156,orders/TST156_order.csv,trades/TST156_trade.csv,True
+2002-06-06,ANON157.SH,7.19,7.2,7.2,7.2,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST157,orders/TST157_order.csv,trades/TST157_trade.csv,True
+2002-06-07,ANON158.SH,14.36,14.28,14.28,14.49,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST158,orders/TST158_order.csv,trades/TST158_trade.csv,True
+2002-06-08,ANON159.SH,4.07,4.05,4.05,4.24,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST159,orders/TST159_order.csv,trades/TST159_trade.csv,True
+2002-06-09,ANON160.SH,4.02,4.07,4.07,4.07,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST160,orders/TST160_order.csv,trades/TST160_trade.csv,True
+2002-06-10,ANON161.SH,14.32,14.25,14.25,14.18,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST161,orders/TST161_order.csv,trades/TST161_trade.csv,True
+2002-06-11,ANON162.SH,11.79,11.84,11.84,11.84,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST162,orders/TST162_order.csv,trades/TST162_trade.csv,True
+2002-06-12,ANON163.SH,16.59,15.89,15.89,15.89,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST163,orders/TST163_order.csv,trades/TST163_trade.csv,True
+2002-06-13,ANON164.SH,20.95,20.8,20.8,20.8,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST164,orders/TST164_order.csv,trades/TST164_trade.csv,True
+2002-06-14,ANON165.SH,31.14,31.06,31.06,31.06,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST165,orders/TST165_order.csv,trades/TST165_trade.csv,True
+2002-06-15,ANON166.SH,21.14,21.41,21.41,21.41,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST166,orders/TST166_order.csv,trades/TST166_trade.csv,True
+2002-06-16,ANON167.SH,7.68,7.63,7.63,7.63,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST167,orders/TST167_order.csv,trades/TST167_trade.csv,True
+2002-06-17,ANON168.SH,29.66,29.67,29.67,29.67,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST168,orders/TST168_order.csv,trades/TST168_trade.csv,True
+2002-06-18,ANON169.SH,25.05,24.96,24.96,26.5,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST169,orders/TST169_order.csv,trades/TST169_trade.csv,True
+2002-06-19,ANON170.SH,13.96,13.92,13.92,13.96,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST170,orders/TST170_order.csv,trades/TST170_trade.csv,True
+2002-06-20,ANON171.SH,16.96,16.95,16.95,16.71,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST171,orders/TST171_order.csv,trades/TST171_trade.csv,True
+2002-06-21,ANON172.SH,26.31,26.0,26.0,26.0,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST172,orders/TST172_order.csv,trades/TST172_trade.csv,True
+2002-06-22,ANON173.SH,16.1,16.03,16.03,16.03,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST173,orders/TST173_order.csv,trades/TST173_trade.csv,True
+2002-06-23,ANON174.SH,20.32,20.3,20.3,20.44,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST174,orders/TST174_order.csv,trades/TST174_trade.csv,True
+2002-06-24,ANON175.SH,35.73,35.57,35.57,35.54,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST175,orders/TST175_order.csv,trades/TST175_trade.csv,True
+2002-06-25,ANON176.SH,38.43,38.42,38.42,39.0,0.0,True,success,撮合成功,4,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST176,orders/TST176_order.csv,trades/TST176_trade.csv,True
+2002-06-26,ANON177.SH,17.9,17.44,17.44,17.95,0.0,True,success,撮合成功,14,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST177,orders/TST177_order.csv,trades/TST177_trade.csv,True
+2002-06-27,ANON178.SH,11.04,11.17,11.17,11.17,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST178,orders/TST178_order.csv,trades/TST178_trade.csv,True
+2002-06-28,ANON179.SH,20.82,20.83,20.83,20.84,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST179,orders/TST179_order.csv,trades/TST179_trade.csv,True
+2002-06-29,ANON180.SH,16.67,16.55,16.55,16.55,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST180,orders/TST180_order.csv,trades/TST180_trade.csv,True
+2002-06-30,ANON181.SH,9.24,9.28,9.28,9.28,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST181,orders/TST181_order.csv,trades/TST181_trade.csv,True
+2002-07-01,ANON182.SH,51.86,51.72,51.72,51.5,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST182,orders/TST182_order.csv,trades/TST182_trade.csv,True
+2002-07-02,ANON183.SH,37.64,37.58,37.58,37.58,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST183,orders/TST183_order.csv,trades/TST183_trade.csv,True
+2002-07-03,ANON184.SH,10.07,9.9,9.9,9.9,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST184,orders/TST184_order.csv,trades/TST184_trade.csv,True
+2002-07-04,ANON185.SH,10.46,10.45,10.45,10.45,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST185,orders/TST185_order.csv,trades/TST185_trade.csv,True
+2002-07-05,ANON186.SH,14.69,14.65,14.65,14.61,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST186,orders/TST186_order.csv,trades/TST186_trade.csv,True
+2002-07-06,ANON187.SH,7.7,7.67,7.67,7.63,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST187,orders/TST187_order.csv,trades/TST187_trade.csv,True
+2002-07-07,ANON188.SH,24.63,24.23,24.23,24.03,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST188,orders/TST188_order.csv,trades/TST188_trade.csv,True
+2002-07-08,ANON189.SH,52.51,53.44,53.44,53.45,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST189,orders/TST189_order.csv,trades/TST189_trade.csv,True
+2002-07-09,ANON190.SH,11.19,11.16,11.16,11.18,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST190,orders/TST190_order.csv,trades/TST190_trade.csv,True
+2002-07-10,ANON191.SH,10.4,10.37,10.37,10.45,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST191,orders/TST191_order.csv,trades/TST191_trade.csv,True
+2002-07-11,ANON192.SH,7.42,7.38,7.38,7.38,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST192,orders/TST192_order.csv,trades/TST192_trade.csv,True
+2002-07-12,ANON193.SH,11.47,11.34,11.34,11.08,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST193,orders/TST193_order.csv,trades/TST193_trade.csv,True
+2002-07-13,ANON194.SH,21.11,21.16,21.16,21.28,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST194,orders/TST194_order.csv,trades/TST194_trade.csv,True
+2002-07-14,ANON195.SH,9.66,9.65,9.65,10.19,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST195,orders/TST195_order.csv,trades/TST195_trade.csv,True
+2002-07-15,ANON196.SH,5.68,5.65,5.65,5.65,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST196,orders/TST196_order.csv,trades/TST196_trade.csv,True
+2002-07-16,ANON197.SH,39.6,39.61,39.61,39.62,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST197,orders/TST197_order.csv,trades/TST197_trade.csv,True
+2002-07-17,ANON198.SH,10.57,10.61,10.61,10.59,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST198,orders/TST198_order.csv,trades/TST198_trade.csv,True
+2002-07-18,ANON199.SH,14.64,14.56,14.56,15.26,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST199,orders/TST199_order.csv,trades/TST199_trade.csv,True
+2002-07-19,ANON200.SH,36.01,36.37,36.37,35.38,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST200,orders/TST200_order.csv,trades/TST200_trade.csv,True
+2002-07-20,ANON201.SH,28.35,28.51,28.51,28.53,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST201,orders/TST201_order.csv,trades/TST201_trade.csv,True
+2002-07-21,ANON202.SH,29.59,29.54,29.54,30.5,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST202,orders/TST202_order.csv,trades/TST202_trade.csv,True
+2002-07-22,ANON203.SH,25.82,26.2,26.2,26.59,0.0,True,success,撮合成功,4,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST203,orders/TST203_order.csv,trades/TST203_trade.csv,True
+2002-07-23,ANON204.SH,30.27,30.09,30.09,30.0,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST204,orders/TST204_order.csv,trades/TST204_trade.csv,True
+2002-07-24,ANON205.SH,72.8,72.75,72.75,72.6,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST205,orders/TST205_order.csv,trades/TST205_trade.csv,True
+2002-07-25,ANON206.SH,28.12,27.84,27.84,27.84,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST206,orders/TST206_order.csv,trades/TST206_trade.csv,True
+2002-07-26,ANON207.SH,12.94,12.89,12.89,11.65,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST207,orders/TST207_order.csv,trades/TST207_trade.csv,True
+2002-07-27,ANON208.SH,19.32,18.88,18.88,17.39,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST208,orders/TST208_order.csv,trades/TST208_trade.csv,True
+2002-07-28,ANON209.SH,27.29,27.15,27.15,27.05,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST209,orders/TST209_order.csv,trades/TST209_trade.csv,True
+2002-07-29,ANON210.SH,34.1,34.02,34.02,34.02,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST210,orders/TST210_order.csv,trades/TST210_trade.csv,True
+2002-07-30,ANON211.SH,20.01,20.07,20.07,19.41,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST211,orders/TST211_order.csv,trades/TST211_trade.csv,True
+2002-07-31,ANON212.SH,7.38,7.34,7.34,7.34,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST212,orders/TST212_order.csv,trades/TST212_trade.csv,True
+2002-08-01,ANON213.SH,9.81,9.84,9.84,9.84,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST213,orders/TST213_order.csv,trades/TST213_trade.csv,True
+2002-08-02,ANON214.SH,11.25,11.29,11.29,11.32,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST214,orders/TST214_order.csv,trades/TST214_trade.csv,True
+2002-08-03,ANON215.SH,20.56,20.58,20.58,18.51,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST215,orders/TST215_order.csv,trades/TST215_trade.csv,True
+2002-08-04,ANON216.SH,20.03,19.93,19.93,19.5,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST216,orders/TST216_order.csv,trades/TST216_trade.csv,True
+2002-08-05,ANON217.SH,36.98,37.68,37.68,37.68,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST217,orders/TST217_order.csv,trades/TST217_trade.csv,True
+2002-08-06,ANON218.SH,28.72,28.66,28.66,29.3,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST218,orders/TST218_order.csv,trades/TST218_trade.csv,True
+2002-08-07,ANON219.SH,3.95,4.01,4.01,4.01,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST219,orders/TST219_order.csv,trades/TST219_trade.csv,True
+2002-08-08,ANON220.SH,14.4,14.39,14.39,14.38,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST220,orders/TST220_order.csv,trades/TST220_trade.csv,True
+2002-08-09,ANON221.SH,11.29,11.21,11.21,11.28,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST221,orders/TST221_order.csv,trades/TST221_trade.csv,True
+2002-08-10,ANON222.SH,19.76,19.43,19.43,19.76,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST222,orders/TST222_order.csv,trades/TST222_trade.csv,True
+2002-08-11,ANON223.SH,11.26,11.37,11.37,11.37,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST223,orders/TST223_order.csv,trades/TST223_trade.csv,True
+2002-08-12,ANON224.SH,43.15,44.01,44.01,44.01,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST224,orders/TST224_order.csv,trades/TST224_trade.csv,True
+2002-08-13,ANON225.SH,15.61,15.66,15.66,15.66,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST225,orders/TST225_order.csv,trades/TST225_trade.csv,True
+2002-08-14,ANON226.SH,15.46,15.44,15.44,13.92,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST226,orders/TST226_order.csv,trades/TST226_trade.csv,True
+2002-08-15,ANON227.SH,9.3,9.29,9.29,9.23,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST227,orders/TST227_order.csv,trades/TST227_trade.csv,True
+2002-08-16,ANON228.SH,17.18,16.89,16.89,16.79,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST228,orders/TST228_order.csv,trades/TST228_trade.csv,True
+2002-08-17,ANON229.SH,40.22,40.16,40.16,36.2,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST229,orders/TST229_order.csv,trades/TST229_trade.csv,True
+2002-08-18,ANON230.SH,16.32,16.28,16.28,16.2,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST230,orders/TST230_order.csv,trades/TST230_trade.csv,True
+2002-08-19,ANON231.SH,12.0,11.9,11.9,11.92,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST231,orders/TST231_order.csv,trades/TST231_trade.csv,True
+2002-08-20,ANON232.SH,36.01,36.2,36.2,35.8,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST232,orders/TST232_order.csv,trades/TST232_trade.csv,True
+2002-08-21,ANON233.SH,15.41,15.2,15.2,15.52,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST233,orders/TST233_order.csv,trades/TST233_trade.csv,True
+2002-08-22,ANON234.SH,25.68,25.58,25.58,25.5,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST234,orders/TST234_order.csv,trades/TST234_trade.csv,True
+2002-08-23,ANON235.SH,20.89,20.96,20.96,21.03,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST235,orders/TST235_order.csv,trades/TST235_trade.csv,True
+2002-08-24,ANON236.SH,24.22,23.95,23.95,23.95,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST236,orders/TST236_order.csv,trades/TST236_trade.csv,True
+2002-08-25,ANON237.SH,26.77,26.73,26.73,21.43,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST237,orders/TST237_order.csv,trades/TST237_trade.csv,True
+2002-08-26,ANON238.SH,16.43,16.5,16.5,16.48,0.0,True,success,撮合成功,2,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST238,orders/TST238_order.csv,trades/TST238_trade.csv,True
+2002-08-27,ANON239.SH,14.96,14.87,14.87,14.99,0.0,True,success,撮合成功,2,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST239,orders/TST239_order.csv,trades/TST239_trade.csv,True
+2002-08-28,ANON240.SH,4.24,4.2,4.2,4.2,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST240,orders/TST240_order.csv,trades/TST240_trade.csv,True
+2002-08-29,ANON241.SH,6.28,6.22,6.22,6.24,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST241,orders/TST241_order.csv,trades/TST241_trade.csv,True
+2002-08-30,ANON242.SH,36.24,36.08,36.08,35.8,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST242,orders/TST242_order.csv,trades/TST242_trade.csv,True
+2002-08-31,ANON243.SH,10.25,10.26,10.26,10.28,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST243,orders/TST243_order.csv,trades/TST243_trade.csv,True
+2002-09-01,ANON244.SH,140.22,140.26,140.26,140.3,0.0,True,success,撮合成功,5,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST244,orders/TST244_order.csv,trades/TST244_trade.csv,True
+2002-09-02,ANON245.SH,22.09,21.96,21.96,21.86,0.0,True,success,撮合成功,5,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST245,orders/TST245_order.csv,trades/TST245_trade.csv,True
+2002-09-03,ANON246.SH,9.68,9.66,9.66,9.64,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST246,orders/TST246_order.csv,trades/TST246_trade.csv,True
+2002-09-04,ANON247.SH,21.98,21.71,21.71,21.73,0.0,True,success,撮合成功,2,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST247,orders/TST247_order.csv,trades/TST247_trade.csv,True
+2002-09-05,ANON248.SH,22.66,22.59,22.59,22.57,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST248,orders/TST248_order.csv,trades/TST248_trade.csv,True
+2002-09-06,ANON249.SH,172.12,171.52,171.52,161.5,0.0,True,success,撮合成功,38,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST249,orders/TST249_order.csv,trades/TST249_trade.csv,True
+2002-09-07,ANON250.SH,12.3,12.28,12.28,12.39,0.0,True,success,撮合成功,7,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST250,orders/TST250_order.csv,trades/TST250_trade.csv,True
+2002-09-08,ANON251.SH,40.3,40.1,40.1,40.3,0.0,True,success,撮合成功,11,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST251,orders/TST251_order.csv,trades/TST251_trade.csv,True
+2002-09-09,ANON252.SH,19.02,18.96,18.96,19.0,0.0,True,success,撮合成功,5,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST252,orders/TST252_order.csv,trades/TST252_trade.csv,True
+2002-09-10,ANON253.SH,21.14,20.96,20.96,21.2,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST253,orders/TST253_order.csv,trades/TST253_trade.csv,True
+2002-09-11,ANON254.SH,10.58,10.52,10.52,10.53,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST254,orders/TST254_order.csv,trades/TST254_trade.csv,True
+2002-09-12,ANON255.SH,15.13,15.15,15.15,15.13,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST255,orders/TST255_order.csv,trades/TST255_trade.csv,True
+2002-09-13,ANON256.SH,22.74,22.65,22.65,22.7,0.0,True,success,撮合成功,13,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST256,orders/TST256_order.csv,trades/TST256_trade.csv,True
+2002-09-14,ANON257.SH,24.42,24.34,24.34,24.43,0.0,True,success,撮合成功,5,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST257,orders/TST257_order.csv,trades/TST257_trade.csv,True
+2002-09-15,ANON258.SH,14.53,14.49,14.49,14.53,0.0,True,success,撮合成功,8,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST258,orders/TST258_order.csv,trades/TST258_trade.csv,True
+2002-09-16,ANON259.SH,204.47,202.33,202.33,203.99,0.0,True,success,撮合成功,16,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST259,orders/TST259_order.csv,trades/TST259_trade.csv,True
+2002-09-17,ANON260.SH,21.0,20.72,20.72,20.79,0.0,True,success,撮合成功,11,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST260,orders/TST260_order.csv,trades/TST260_trade.csv,True
+2002-09-18,ANON261.SH,30.95,30.8,30.8,30.95,0.0,True,success,撮合成功,16,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST261,orders/TST261_order.csv,trades/TST261_trade.csv,True
+2002-09-19,ANON262.SH,18.74,18.59,18.59,18.68,0.0,True,success,撮合成功,10,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST262,orders/TST262_order.csv,trades/TST262_trade.csv,True
+2002-09-20,ANON263.SH,24.41,24.47,24.47,25.63,0.0,True,success,撮合成功,6,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST263,orders/TST263_order.csv,trades/TST263_trade.csv,True
+2002-09-21,ANON264.SH,24.69,24.6,24.6,24.86,0.0,True,success,撮合成功,14,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST264,orders/TST264_order.csv,trades/TST264_trade.csv,True
+2002-09-22,ANON265.SH,16.79,16.76,16.76,16.78,0.0,True,success,撮合成功,5,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST265,orders/TST265_order.csv,trades/TST265_trade.csv,True
+2002-09-23,ANON266.SH,58.7,58.21,58.21,58.5,0.0,True,success,撮合成功,30,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST266,orders/TST266_order.csv,trades/TST266_trade.csv,True
+2002-09-24,ANON267.SH,12.53,12.42,12.42,12.49,0.0,True,success,撮合成功,6,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST267,orders/TST267_order.csv,trades/TST267_trade.csv,True
+2002-09-25,ANON268.SH,12.83,12.77,12.77,13.26,0.0,True,success,撮合成功,7,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST268,orders/TST268_order.csv,trades/TST268_trade.csv,True
+2002-09-26,ANON269.SH,15.24,15.2,15.2,15.12,0.0,True,success,撮合成功,9,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST269,orders/TST269_order.csv,trades/TST269_trade.csv,True
+2002-09-27,ANON270.SH,35.13,35.04,35.04,35.06,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST270,orders/TST270_order.csv,trades/TST270_trade.csv,True
+2002-09-28,ANON271.SH,23.75,23.62,23.62,23.6,0.0,True,success,撮合成功,3,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST271,orders/TST271_order.csv,trades/TST271_trade.csv,True
+2002-09-29,ANON272.SH,30.43,30.33,30.33,31.95,0.0,True,success,撮合成功,5,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST272,orders/TST272_order.csv,trades/TST272_trade.csv,True
+2002-09-30,ANON273.SH,22.72,22.55,22.55,22.52,0.0,True,success,撮合成功,4,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST273,orders/TST273_order.csv,trades/TST273_trade.csv,True
+2002-10-01,ANON274.SH,42.28,42.04,42.04,42.23,0.0,True,success,撮合成功,20,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST274,orders/TST274_order.csv,trades/TST274_trade.csv,True
+2002-10-02,ANON275.SH,16.43,16.5,16.5,16.48,0.0,True,success,撮合成功,2,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST275,orders/TST275_order.csv,trades/TST275_trade.csv,True
+2002-10-03,ANON276.SH,14.96,14.87,14.87,14.99,0.0,True,success,撮合成功,2,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST276,orders/TST276_order.csv,trades/TST276_trade.csv,True
+2002-10-04,ANON277.SH,63.21,62.2,62.2,62.88,0.0,True,success,撮合成功,6,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST277,orders/TST277_order.csv,trades/TST277_trade.csv,True
+2002-10-05,ANON278.SH,36.45,36.37,36.37,36.34,0.0,True,success,撮合成功,8,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST278,orders/TST278_order.csv,trades/TST278_trade.csv,True
+2002-10-06,ANON279.SH,11.56,11.61,11.61,11.64,0.0,True,success,撮合成功,8,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,test,TST279,orders/TST279_order.csv,trades/TST279_trade.csv,True

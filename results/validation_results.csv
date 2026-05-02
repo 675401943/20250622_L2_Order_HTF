@@ -1,0 +1,7 @@
+﻿trade_date,symbol,prev_close,calculated_open_price,actual_open_price,continuous_first_price,error,is_match,status,message,candidate_count,selected_rule,split,sample_id,order_file,trade_file,prev_close_found
+2001-01-01,ANON001.SH,50.0,50.16,50.16,50.0,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,validation,VAL001,orders/VAL001_order.csv,trades/VAL001_trade.csv,True
+2001-01-02,ANON002.SZ,4.26,4.3,4.3,4.31,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,validation,VAL002,orders/VAL002_order.csv,trades/VAL002_trade.csv,True
+2001-01-03,ANON003.SZ,13.18,13.59,13.59,13.56,0.0,True,success,撮合成功,1,深市：最大成交量 -> diff 最小 -> 最接近前收盘价 -> 高价,validation,VAL003,orders/VAL003_order.csv,trades/VAL003_trade.csv,True
+2001-01-04,ANON004.SH,7.02,6.92,6.92,6.92,0.0,True,fallback_continuous,集合竞价阶段无法形成可撮合订单，使用连续竞价第一笔成交价兜底,0,,validation,VAL004,orders/VAL004_order.csv,trades/VAL004_trade.csv,True
+2001-01-05,ANON005.SH,2.81,2.83,2.83,2.83,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,validation,VAL005,orders/VAL005_order.csv,trades/VAL005_trade.csv,True
+2001-01-06,ANON006.SH,25.84,26.05,26.05,25.97,0.0,True,success,撮合成功,1,沪市：全部 diff=0 取全候选中间价；否则取候选首尾后按 diff 选边界/中间价,validation,VAL006,orders/VAL006_order.csv,trades/VAL006_trade.csv,True
